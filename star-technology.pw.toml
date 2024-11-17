@@ -1,0 +1,13 @@
+name = "Star Technology"
+filename = "Star Technology-1.20.1-GAMMA-HOTFIX-3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16f0c6fac992fd37c77afd0aeb8adcf665b8f308"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5755407
+project-id = 924189

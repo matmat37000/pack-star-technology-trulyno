@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "star-technology.pw.toml"
+hash = "78d35d461a17aae7e94c5bed406aa45c23290d81a611458106ef1952045e3cbb"
+metafile = true
