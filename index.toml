@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "bliss-shader.pw.toml"
+hash = "7e6ae81cc2e39c67424a3698a128f3c81a9ffce3ff429f79310ca9ab8f0b5dcc"
+metafile = true
+
+[[files]]
+file = "bsl-shaders.pw.toml"
+hash = "c9966d52b35f3e01286bdc6740f08d25615a001088f545ce8bc209ede9b894ed"
+metafile = true
+
+[[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
+metafile = true
+
+[[files]]
+file = "complementary-unbound.pw.toml"
+hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
+metafile = true
+
+[[files]]
 file = "config/NuclearCraft/common.toml"
 hash = "ce9c8ec45996b15d68c305d00a7fbc8705fe6e139c346edbe4487f8036c70799"
 
@@ -2985,6 +3005,11 @@ file = "kubejs/startup_scripts/world_gen_layers.js"
 hash = "2afb0db06889b08b76531d9f2656c4f81491a5e77a5c184dfb3b335eb7d154b9"
 
 [[files]]
+file = "light-shaders.pw.toml"
+hash = "2e71d6742a2b4466d6a1058796fdd5fb193eeb7689641a5b4486ff1eb13657cd"
+metafile = true
+
+[[files]]
 file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
 hash = "f30f5b77f7fe1aef3f1c36f4d9febf60c253171bcd6b6b48e8431cbb7616485e"
 metafile = true
@@ -3257,6 +3282,11 @@ metafile = true
 [[files]]
 file = "mods/endertanks.pw.toml"
 hash = "c5bd72b074124418a99ca9f5a6de12f074d2429410b964c6db90196cc5b70856"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "512f27fb0eae5e7e3fb9ff66f5d8f83b47fcbc15e5cbdf59fdf9f6f6d2c480cc"
 metafile = true
 
 [[files]]
@@ -3682,11 +3712,6 @@ metafile = true
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
 hash = "e3c9ea379c38ce6da553703a0433764c05781e5d8320a734631fdea4da6f00f1"
-metafile = true
-
-[[files]]
-file = "mods/star-technology.pw.toml"
-hash = "78d35d461a17aae7e94c5bed406aa45c23290d81a611458106ef1952045e3cbb"
 metafile = true
 
 [[files]]
@@ -4163,4 +4188,14 @@ metafile = true
 [[files]]
 file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
 hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
+metafile = true
+
+[[files]]
+file = "sildurs-vibrant-shaders.pw.toml"
+hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
+metafile = true
+
+[[files]]
+file = "soft-voxels-lite.pw.toml"
+hash = "b00785aa4836714dc18e484cf45d30763046a737d93ddab35815783c56d95069"
 metafile = true
