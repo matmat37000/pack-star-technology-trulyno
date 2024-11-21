@@ -1,0 +1,13 @@
+name = "Soft Voxels Lite"
+filename = "SoftVoxelsLite_v2.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dd428dc08a23b8f61810357fded9fec5d309a8e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4582682
+project-id = 669144

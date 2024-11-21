@@ -1,0 +1,13 @@
+name = "Gregtech CEu Modern Programmer Art"
+filename = "Gregtech-CEu-Modern-Programmer-art.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dd17b762ddaeeba927db60a625004d4adbcabc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5510000
+project-id = 950859

@@ -1,0 +1,13 @@
+name = "Black_dogs's Modding Library (BML)"
+filename = "bml-1.20.1-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3203da2504ccc9e7dd2401d7bd154b2973cae792"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4754782
+project-id = 371791

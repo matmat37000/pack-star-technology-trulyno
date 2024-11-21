@@ -1,0 +1,13 @@
+name = "Komaru Cat (port)"
+filename = "komaru-cat-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cafecd232e56d7e5139ae32d643a2a56fdb108d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5623668
+project-id = 1083018

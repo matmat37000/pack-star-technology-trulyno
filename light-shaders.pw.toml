@@ -1,0 +1,13 @@
+name = "Light Shaders"
+filename = "Light Shaders.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b472dfb64ce5b208b88aee06e0e95eafc3e7ae0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4800085
+project-id = 923458
