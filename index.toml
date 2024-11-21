@@ -4136,31 +4136,31 @@ file = "scripts/script.zs"
 hash = "a946479a50b1178dc3a27cd5376b7465eafcd4f1e14e7b75dca0791c9b16b045"
 
 [[files]]
-file = "shaders/bliss-shader.pw.toml"
+file = "shaderpacks/bliss-shader.pw.toml"
 hash = "7e6ae81cc2e39c67424a3698a128f3c81a9ffce3ff429f79310ca9ab8f0b5dcc"
 metafile = true
 
 [[files]]
-file = "shaders/bsl-shaders.pw.toml"
+file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "c9966d52b35f3e01286bdc6740f08d25615a001088f545ce8bc209ede9b894ed"
 metafile = true
 
 [[files]]
-file = "shaders/complementary-reimagined.pw.toml"
+file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
 metafile = true
 
 [[files]]
-file = "shaders/complementary-unbound.pw.toml"
+file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "976b13a1d20d2147d1f03316155044acce30d46dc8d8e0495d3665d669e6e0c1"
 metafile = true
 
 [[files]]
-file = "shaders/light-shaders.pw.toml"
+file = "shaderpacks/light-shaders.pw.toml"
 hash = "2e71d6742a2b4466d6a1058796fdd5fb193eeb7689641a5b4486ff1eb13657cd"
 metafile = true
 
 [[files]]
-file = "shaders/sildurs-vibrant-shaders.pw.toml"
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
 hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
 metafile = true
