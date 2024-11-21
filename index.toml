@@ -4164,8 +4164,3 @@ metafile = true
 file = "shaders/sildurs-vibrant-shaders.pw.toml"
 hash = "f9c48453be6131136ef987aa56b95e11c6ec3813ea997a84b6b0f231eacb8d37"
 metafile = true
-
-[[files]]
-file = "shaders/soft-voxels-lite.pw.toml"
-hash = "b00785aa4836714dc18e484cf45d30763046a737d93ddab35815783c56d95069"
-metafile = true
